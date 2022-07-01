@@ -1,4 +1,4 @@
-## Hello! i'm Felipe
+## Hello! I'm Felipe
 
 - Student at [Rocketseat](https://github.com/Rocketseat)
 
