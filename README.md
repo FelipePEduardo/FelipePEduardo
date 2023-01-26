@@ -1,7 +1,9 @@
 ## Hello! I'm Felipe
 
 - Student at [Rocketseat](https://github.com/Rocketseat)
-
+- I'am a Front-End Developer looking to become a Full-Stack Developer
+- I love Skateboard 
+- I love playing games 
 
 ## Studying
 <p style="display: inline_block"><br>
