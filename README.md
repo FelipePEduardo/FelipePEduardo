@@ -3,6 +3,7 @@
 - Student at [Rocketseat](https://github.com/Rocketseat)
 - I'am a Front-End Developer looking to become a Full-Stack Developer
 - Focused on ReactJS on Ignite(Rockeseat)
+- Rockeseat profile [Rocketseat-Profile](https://app.rocketseat.com.br/me/felipe-pereira-eduardo-00732)
 - I love Skateboard 
 - I love playing games 
 
