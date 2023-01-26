@@ -2,6 +2,7 @@
 
 - Student at [Rocketseat](https://github.com/Rocketseat)
 - I'am a Front-End Developer looking to become a Full-Stack Developer
+- Focused on ReactJS on Ignite(Rockeseat)
 - I love Skateboard 
 - I love playing games 
 
