@@ -19,8 +19,8 @@
 
 ## Github Analytics
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=FelipePEduardo&show_icons=true&theme=vision-friendly-dark" alt="FelipePEduardo stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipePEduardo&layout=compact&theme=vision-friendly-dark" alt="FelipePEduardo most languages"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=FelipePEduardo&show_icons=true&theme=material-palenight&hide_border=false" alt="FelipePEduardo stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipePEduardo&layout=compact&theme=material-palenight&hide_border=false" alt="FelipePEduardo most languages"/>
 </p>
 
 
