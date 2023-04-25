@@ -6,7 +6,7 @@
   [![My Skills](https://skillicons.dev/icons?i=ts,react,nextjs,tailwind)](https://skillicons.dev)
 
  <p align="right">
-  <a href="https://www.linkedin.com/in/felipepereiraeduardo/"><img align="center" width="25px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" /><a/> 
+  <a href="https://www.linkedin.com/in/felipepereiraeduardo/" target="_blank"><img align="center" width="25px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" /><a/> 
 </p
 </div>
 
@@ -16,11 +16,11 @@
 </p>
 <p align="left">
   -
- <a href="https://app.rocketseat.com.br/me/felipe-pereira-eduardo-00732">Rocketseat Profile</a>
+ <a href="https://app.rocketseat.com.br/me/felipe-pereira-eduardo-00732" target="_blank">Rocketseat Profile</a>
 </p>
 <p align="left">
   -
- <a href="https://felipeeduardodevnext.netlify.app">Portfolio</a>
+ <a href="https://felipeeduardodevnext.netlify.app" target="_blank">Portfolio</a>
 </p>
 <p align="left">- I love Skateboard</p>
 <p align="left">- I love playing games</p>
