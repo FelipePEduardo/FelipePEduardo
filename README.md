@@ -11,19 +11,19 @@
 </div>
 
 <p align="left">
-  - Student at
+  📚 Student at
   <a href="https://github.com/Rocketseat" target="_blank">Rocketseat</a>
 </p>
 <p align="left">
-  -
+  🚀
  <a href="https://app.rocketseat.com.br/me/felipe-pereira-eduardo-00732" target="_blank">Rocketseat Profile</a>
 </p>
 <p align="left">
-  -
+  💻
  <a href="https://felipeeduardodevnext.netlify.app" target="_blank">Portfolio</a>
 </p>
-<p align="left">- I love Skateboard</p>
-<p align="left">- I love playing games</p>
+<p align="left">🛹 I love Skateboard</p>
+<p align="left">🎮 I love playing games</p>
 
 
 ##
