@@ -30,8 +30,8 @@
 
 <p align="center">
 <a href="https://github.com/FelipePEduardo"> 
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=FelipePEduardo&show_icons=true&theme=material-palenight&hide_border=false" alt="FelipePEduardo stats"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipePEduardo&layout=compact&theme=material-palenight&hide_border=false" alt="FelipePEduardo most languages"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=FelipePEduardo&show_icons=true&theme=material-palenight&hide_border=false" alt="FelipePEduardo stats"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipePEduardo&layout=compact&theme=material-palenight&hide_border=false" alt="FelipePEduardo most languages"/>
 </a>
 </p>
 </div>
