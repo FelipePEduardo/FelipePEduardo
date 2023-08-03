@@ -11,7 +11,7 @@
 </div>
 
 <p align="left">
-  💻 Current working at
+  🏙 Current working at
   <a href="https://github.com/TBDC-Agro-Softwares" target="_blank">TBDC Agro Software</a>
 </p>
 <p align="left">
