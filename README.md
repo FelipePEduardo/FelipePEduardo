@@ -1,9 +1,9 @@
 <div display="inline-block">
  
- <p align="center"> 💻 I'm a frontend web developer 💻</p>
+ <p align="center"> 💻 I'm a Full-Stack web developer 💻</p>
  <div align="center">
 
-  [![My Skills](https://skillicons.dev/icons?i=ts,react,nextjs,tailwind)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,vuejs)](https://skillicons.dev)
 
  <p align="right">
   <a href="https://www.linkedin.com/in/felipepereiraeduardo/" target="_blank"><img align="center" width="25px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" /><a/> 
